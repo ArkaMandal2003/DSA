@@ -1,7 +1,7 @@
 n = int(input("hi:"))
 l = list()
 for i in range(1,n):
-    l = l + [int(input("enter in sorted order:"))]
+    l = l + [int(input())]
 
 j = 0
 n = len(l)
